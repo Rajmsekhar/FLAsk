@@ -1,0 +1,14 @@
+certifi==2021.6.27
+click==8.0.1
+colorama==0.4.4
+Flask=2.0.1
+guincorn==20.1.0
+importlib-metada==4.5.0
+itsdangerous==2.0.1
+jinija2==3.0.1
+MarkupSafe==2.0.1
+typing-extensions==3.10.0.0
+Werkzeug==2.0.1
+wincerstore==0.2
+zipp==3.4.1
+
