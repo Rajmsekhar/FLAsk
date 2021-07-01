@@ -1,1 +1,1 @@
-web: gunicorn wsgi:app:appgi
+web: gunicorn wsgi:main:appgi
